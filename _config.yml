@@ -1,11 +1,11 @@
 # Site settings
-title: Hux Blog
-SEOTitle: 黄玄的博客 | Hux Blog
+title: Katsu Blog
+SEOTitle: 葛云飞的博客 | Katsu Blog
 header-img: img/home-bg.jpg
-email: huxpro@gmail.com
+email: 1598902968@qq.com
 description: "关于程序与设计、黑客与画家 | 黄玄，Web & Mobile Lover，Software Engineer，UX Designer | 这里是 @Hux黄玄 的个人博客，与你一起发现更大的世界。"
-keyword: "黄玄, Hux黄玄, Hux, 鬼栈, huxpro, @huxpro, 黄玄的博客, Hux Blog, 博客, 个人网站, 互联网, Web, JavaScript, 前端, 设计"
-url: "https://huangxuan.me"              # your host, for absolute URL
+keyword: "葛云飞, Katsu葛云飞, Katsu, 鬼栈, katsuunhi, @katsuunhi, 葛云飞的博客, Katsu Blog, 博客, 个人网站, 互联网, Web, JavaScript, 前端, 设计"
+url: "https://katsuunhi.github.io"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
@@ -13,12 +13,10 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username:     huxpro
-zhihu_username:     huxpro
-github_username:    huxpro
-twitter_username:   huxpro
-#facebook_username:  huxpro
-#linkedin_username:  firstname-lastname-idxxxx
+#weibo_username:     katsuunhi
+#zhihu_username:     katsuunhi
+github_username:    katsuunhi
+
 
 
 
@@ -72,7 +70,7 @@ netease_comment: false
 
 # Google Analytics
 ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
-ga_domain: huangxuan.me
+ga_domain: katsuunhi.github.io
 
 
 
