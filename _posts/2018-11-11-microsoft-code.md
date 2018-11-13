@@ -12,13 +12,13 @@ author:     "Katsu"
 <br>
 <br>
 #### 步骤1：进入这个网页<http://www.planetb.ca/syntax-highlight-word>
-![planetB主页](https://github.com/katsuunhi/katsuunhi.github.io/tree/master/img/planetB.png)<br>
+![planetB主页](https://github.com/katsuunhi/katsuunhi.github.io/blob/master/img/planetB.png?raw=true)<br>
 <br>
 <br>
 #### 步骤2：将需要粘贴到word中的代码粘贴到网站下面的文本框内,并选择语言后点击Show Hightlighted,生成第二张图的代码
-![粘贴并提交](https://github.com/katsuunhi/katsuunhi.github.io/tree/master/img/planetB_input.png)<br>
-![](https://github.com/katsuunhi/katsuunhi.github.io/tree/master/img/planetB_code.png)<br>
+![粘贴并提交](https://github.com/katsuunhi/katsuunhi.github.io/blob/master/img/planetB_input.png?raw=true)<br>
+![](https://github.com/katsuunhi/katsuunhi.github.io/blob/master/img/planetB_code.png?raw=true)<br>
 <br>
 <br>
 #### 步骤3：ctrl-a，ctrl-c复制网页中的代码，粘贴到需要粘贴的word中，下图是效果
-![](https://github.com/katsuunhi/katsuunhi.github.io/tree/master/img/word_code.png)
+![](https://github.com/katsuunhi/katsuunhi.github.io/blob/master/img/word_code.png?raw=true)
