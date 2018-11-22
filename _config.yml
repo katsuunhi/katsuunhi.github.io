@@ -1,10 +1,10 @@
 # Site settings
 title: Katsu Blog
-SEOTitle: 葛云飞的博客 | Katsu Blog
+SEOTitle: 孙谦的博客 | Katsu Blog
 header-img: img/home-bg.jpg
 email: 1598902968@qq.com
 description: "电脑小白"
-keyword: "葛云飞, Katsu葛云飞, Katsu,, katsuunhi, @katsuunhi, 葛云飞的博客, Katsu Blog, 博客, 计算机, 个人网站, 互联网, Web, java, JavaScript, 前端, 设计"
+keyword: "孙谦, Katsu孙谦, Katsu,, katsuunhi, @katsuunhi, 孙谦的博客, Katsu Blog, 博客, 计算机, c, c++, cpp, java, python, 机器学习, 深度学习, AI, 人工智能, 互联网, Web, JavaScript, 前端, 设计"
 url: "https://katsuunhi.github.io"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
