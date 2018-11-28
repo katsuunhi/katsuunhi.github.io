@@ -13,6 +13,12 @@ author:     "Katsu"
 获奖公示：2018年12月1日-2018年12月3日 (比赛获奖公示，并接受异议、申诉和违规举报)<br>
 >比赛链接： <http://www.dcjingsai.com/common/cmpt/住房月租金预测大数据赛（付费竞赛）_赛体与数据.html>
 
+<br>
+
+>github:https://github.com/katsuunhi/DC-house-price-predcit
+
+<br>
+
 >感谢室友和学妹给了我这个经历
 
 ## 数据处理
