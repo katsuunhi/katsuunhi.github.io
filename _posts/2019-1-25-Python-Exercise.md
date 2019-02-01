@@ -1,3 +1,14 @@
+---
+layout:     post
+date:       2019-01-25 00:00:00
+author:     "Katsu"
+title:      python小练习
+
+---
+
+
+
+
 ## PythonExercises 
 <br>
 一些按照难度排列的Python练习题。欢迎提交你的答案！<br>
