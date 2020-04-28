@@ -1,3 +1,12 @@
+---
+layout:     post
+title:      "BaiduPCS-Go安装"
+date:       2020-4-28 15:19:00
+author:     "Katsu"
+
+
+---
+
 ### 在linux上使用百度云盘下载数据-BaiduPCS-Go安装教程，环境：Ubuntu1604
 
 1. 下载BaiduPCS-Go发行版<br>
