@@ -32,7 +32,7 @@ author:     "Katsu"
 
 终端中输入
 ```bash
-    usb-creator-gtk
+usb-creator-gtk
 ```
 制作优盘启动盘（需要格式化）<br>
 
@@ -48,8 +48,8 @@ ubuntu2010中的软件和更新-附加驱动中直接安装
 ### 3. 安装cuda
 
 ```bash
-    sudo apt update
-    sudo apt install nvidia-cuda-toolkit
+sudo apt update
+sudo apt install nvidia-cuda-toolkit
 ```
 <br><br>
 
@@ -61,34 +61,34 @@ ubuntu2010中的软件和更新-附加驱动中直接安装
 
 修改权限：<br>
 ```bash
-    sudo chmod 777 -R anaconda3
+sudo chmod 777 -R anaconda3
 ```
 修改conda镜像（清华的镜像不太稳定，建议中科大）<br>
 
 ```bash
-    conda config --add channels https://mirrors.ustc.edu.cn/anaconda/pkgs/free/                                            
-    conda config --set show_channel_urls yes
+conda config --add channels https://mirrors.ustc.edu.cn/anaconda/pkgs/free/                                            
+conda config --set show_channel_urls yes
 ```
 <br><br>
 
 ### 5. 安装fastai
 ```bash
-    conda install -c fastai -c pytorch -c anaconda fastai gh anaconda
+conda install -c fastai -c pytorch -c anaconda fastai gh anaconda
 ```
 中间有的包如果太慢，可以手动下载，然后本地安装<br>
 比如：
 ```bash
-    conda install --use-local cudatoolkit-11.0.221-h6bb024c_0.tar.bz2 
+conda install --use-local cudatoolkit-11.0.221-h6bb024c_0.tar.bz2 
 ```
 之后终端中输入python
 ```bash
-    ➜  ~ python
-    Python 3.8.3 (default, Jul  2 2020, 16:21:59) 
-    [GCC 7.3.0] :: Anaconda, Inc. on linux
-    Type "help", "copyright", "credits" or "license" for more information.
-    >>> import fastai
-    >>> fastai.__version__
-    '2.1.3'
+➜  ~ python
+Python 3.8.3 (default, Jul  2 2020, 16:21:59) 
+[GCC 7.3.0] :: Anaconda, Inc. on linux
+Type "help", "copyright", "credits" or "license" for more information.
+>>> import fastai
+>>> fastai.__version__
+'2.1.3'
 ```
 
 安装成功<br><br>
