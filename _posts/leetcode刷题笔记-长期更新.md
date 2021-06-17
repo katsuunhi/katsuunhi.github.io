@@ -1,4 +1,10 @@
-<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
+
+---
+layout:     post
+title:      "leetcode 刷题笔记"
+date:       2021-06-17 15:32:00
+author:     "Katsu"
+---
 
 leetcode 刷题笔记
 ## 1. O(n)时间，限制数组的数的范围，找消失的数
